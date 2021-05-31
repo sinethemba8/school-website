@@ -1,0 +1,127 @@
+html {
+    background-image: url("sne2\ -\ Copy.png");
+  width:100%;
+  height: 135%;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+  }
+
+  
+  .topnav-right {
+    background-color: black;
+    overflow: hidden;
+}
+.topnav-right a {
+    float: left;
+    color: #ee1111;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav-right a:hover {
+    background-color:grey;
+    color: black;
+  }
+  
+  .topnav-right a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .topnav-right {
+    float: right;
+  }
+
+  
+
+  .container {
+    padding: 20px;
+    background:white ;
+    border-radius: 5px;
+  }
+
+  label {
+    font-size:large;
+    margin-left: 12px;
+  }
+
+  input[type=text],input[type=email],textarea {
+    width: 3px;
+    padding: 12px; 
+    border:1px solid #cec4c4;
+    border-radius:4px ;
+    box-sizing: border-box;
+    margin-top:6px ;
+    margin-bottom:16px ;
+    resize: vertical;
+    
+
+  }
+
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: red;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  input[type=submit] :hover {
+    background-color:gray;
+  }
+
+
+  .container {  
+    padding: 50px;  
+  background-color:gray; 
+  }
+  
+  input[type=text], input[type=password], textarea {  
+    width: 100%;  
+    padding: 15px;  
+    margin: 5px 0 22px 0;  
+    display: inline-block;  
+    border: none;  
+    background: #f1f1f1;  
+  } 
+  
+  div {  
+    padding: 10px 0;  
+ 
+  } 
+ 
+img {
+  padding: 10px;
+  display: inline-block;
+  float: none;
+}
+
+.grid-container img {
+  border: 8px solid white;
+  
+}
+
+h1 {
+  text-align: center;
+  
+}
+
+.footer{
+  position: relative;
+  left:0%;
+bottom:0%;
+width: 100px;
+text-align: center;
+display: inline;
+}
+ 
+ .maybe {
+    font-size:larger;
+ }
+
+ p {
+   font-size: larger;
+ }
